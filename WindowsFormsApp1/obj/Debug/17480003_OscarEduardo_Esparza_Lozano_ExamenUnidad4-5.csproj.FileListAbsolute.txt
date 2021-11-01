@@ -1,0 +1,14 @@
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\17480003_OscarEduardo_Esparza_Lozano_ExamenUnidad4-5.csprojAssemblyReference.cache
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Alumnos.resources
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Carreras.resources
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Materias.resources
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MDIParent1.resources
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\17480003_OscarEduardo_Esparza_Lozano_ExamenUnidad4-5.csproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\17480003_OscarEduardo_Esparza_Lozano_ExamenUnidad4-5.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Oscar\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
